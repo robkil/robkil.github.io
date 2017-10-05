@@ -5,7 +5,7 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "CV"
-    url: h
+    url: /assets/documents/Akshat_CV.pdf
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
