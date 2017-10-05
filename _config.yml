@@ -15,7 +15,7 @@ name                     : "Akshat Agarwal"
 description              : "Personal webpage of Akshat Agarwal, graduate robotics student at Carnegie Mellon University"
 url                      : "https://agakshat.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "agakshat/minimal-mistakes"
+repository               : "agakshat/agakshat.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
