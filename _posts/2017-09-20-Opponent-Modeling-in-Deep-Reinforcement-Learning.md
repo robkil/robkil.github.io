@@ -1,7 +1,12 @@
 ---
 title: "Opponent Modeling in Deep Reinforcement Learning"
 excerpt: "Learning policies which adapt to the opponent's strategy by giving information about the opponent along with the state as input to a Deep Q network"
-
+categories:
+  - paper-summary
+tags:
+  - Reinforcement Learning
+  - Opponent Awareness
+  - Multi-agent systems
 ---
 The paper is available here: [He He et al. 2016](https://arxiv.org/abs/1609.05559)
 
