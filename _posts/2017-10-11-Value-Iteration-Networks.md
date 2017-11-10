@@ -2,7 +2,7 @@
 title: Value Iteration Networks (VINs)
 excerpt: A fully differentiable planning module which can learn to plan end to end using backpropagation - NIPS 2016 Best Paper
 categories:
-  - Paper Summary
+  - paper-summary
 tags:
   - Reinforcement Learning
 ---
