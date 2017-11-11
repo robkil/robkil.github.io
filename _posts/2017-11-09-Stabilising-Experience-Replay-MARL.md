@@ -30,5 +30,6 @@ The idea is that the Q-network of any agent could be made stationary if conditio
 5. Combining the 2 approaches does not produce any significantly better results.
 6. The recurrent model does not benefit from fingerprinting either, since the hidden states allow it to disambiguate between the policies of other agents'. 
 
-**Takeaway**
+Takeaway
+========
 Fingerprinting seems to stabilise experience replay and improve performance significantly. It allows the model to generalize between best responses to different policies of the other agents. 

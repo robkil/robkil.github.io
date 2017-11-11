@@ -5,7 +5,6 @@ categories:
   - paper-summary
 tags:
   - Reinforcement Learning
-  - Opponent Awareness
   - Multi-agent Systems
 ---
 The paper is available here: [He He et al. 2016](https://arxiv.org/abs/1609.05559)
