@@ -63,7 +63,7 @@ naver-site-verification  :
 twitter:
   username               : "akshat96"
 facebook:
-  username               : "agakshat"
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -73,9 +73,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: 
-    - "https://facebook.com/agakshat"
     - "https://linkedin.com/in/agakshat"
-    - "https://www.instagram.com/agakshat/"
 
 # Analytics
 analytics:
@@ -96,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "agakshat"
+  facebook         :
   foursquare       :
   github           : "agakshat"
   gitlab           :
@@ -110,7 +108,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "akshat96"
   vine             :
   weibo            :
   xing             :
