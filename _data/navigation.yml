@@ -6,6 +6,8 @@ main:
     url: /projects/
   - title: "Code"
     url: https://github.com/agakshat
+  - title: "Papers"
+    url: /#papers
   - title: "Blog"
     url: /blog/
   - title: "CV"
