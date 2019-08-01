@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "Akshat Agarwal"
 title_separator          : "-"
 name                     : "Akshat Agarwal"
-description              : "Personal webpage of Akshat Agarwal, graduate robotics student at Carnegie Mellon University"
+description              : "Personal webpage of Akshat Agarwal, machine learning engineer at Nuro"
 url                      : "https://agakshat.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "agakshat/agakshat.github.io"
@@ -61,7 +61,7 @@ naver-site-verification  :
 
 # Social Sharing
 twitter:
-  username               : "akshat96"
+  username               : "agakshat7"
 facebook:
   username               :
   app_id                 :
@@ -85,9 +85,9 @@ analytics:
 # Site Author
 author:
   name             : "Akshat Agarwal"
-  avatar           : "/assets/images/pp.jpg"
-  bio              : "Reinforcement Learning Researcher at Carnegie Mellon University"
-  location         : "Pittsburgh"
+  avatar           : "/assets/images/leh.jpg"
+  bio              : "Machine Learning Engineer at Nuro"
+  location         : "California"
   email            : "agarwalaks30@gmail.com"
   uri              : 
   bitbucket        :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "akshat96"
+  twitter          : "agakshat7"
   vine             :
   weibo            :
   xing             :
