@@ -9,20 +9,20 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "Akshat Agarwal"
+title                    : "Naveen Balaji"
 title_separator          : "-"
-name                     : "Akshat Agarwal"
-description              : "Personal webpage of Akshat Agarwal, machine learning engineer at Nuro"
-url                      : "https://agakshat.github.io"
+name                     : "Naveen Balaji"
+description              : "Personal webpage of Naveen Balaji, roboticsit at IITK"
+url                      : "https://robkil.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "agakshat/agakshat.github.io"
+repository               : "robkil/robkil.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 75
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : "agakshat-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "robkil-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -61,7 +61,7 @@ naver-site-verification  :
 
 # Social Sharing
 twitter:
-  username               : "agakshat7"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -84,11 +84,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Akshat Agarwal"
+  name             : "Naveen Balaji"
   avatar           : "/assets/images/leh.jpg"
   bio              : "Machine Learning Engineer at Nuro"
-  location         : "California"
-  email            : "agarwalaks30@gmail.com"
+  location         : "India"
+  email            : "naveenbiitk@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "agakshat"
+  github           : "naveenbiitk"
   gitlab           :
   google_plus      :
   keybase          :
